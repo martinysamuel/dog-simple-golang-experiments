@@ -1,3 +1,3 @@
-# dog-simple-golang-experiments
--Example 1-
+# Let's just do a simple Query
+
 Demonstrates a simple query against our sqlite3 database.
